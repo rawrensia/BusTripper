@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Sat Sep 29 10:17:06 SGT 2018
+2.base=/Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/build/intermediates/assets/debug
+5.set=ASSET
+0.path=stopInfo.json
+2.baseType=DIRECTORY
+3.base=/Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/build/intermediates/assets/debug
+2.set=ASSET
+1.path=busTest.json
+4.base=/Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/build/intermediates/assets/debug
+count=7
+5.baseType=DIRECTORY
+2.path=busTest.json.txt
+5.base=/Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/build/intermediates/assets/debug
+4.set=ASSET
+3.path=reverseJson.json
+6.base=/Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/build/intermediates/transforms/dexMerger/debug/0
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=bus-stops-services.json
+6.set=DEX
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=bus-stops.json
+0.base=/Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=classes.dex
+1.base=/Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/build/intermediates/assets/debug
+4.baseType=DIRECTORY
+0.set=ASSET

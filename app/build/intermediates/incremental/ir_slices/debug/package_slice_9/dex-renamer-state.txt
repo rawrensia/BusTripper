@@ -1,0 +1,4 @@
+#Thu Apr 19 23:35:07 SGT 2018
+base.0=C\:\\Users\\wayne\\AndroidStudioProjects\\Revised UI Bus Tripper Code\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

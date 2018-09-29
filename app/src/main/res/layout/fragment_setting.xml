@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fontFamily="@font/patrick_hand"
+    android:textAllCaps="false"
+    android:textSize="16sp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:background="#DFDAE6"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="16dp">
+
+            <TextView
+                android:id="@+id/username_setting"
+                android:layout_width="100dp"
+                android:layout_height="33dp"
+                android:ems="10"
+                android:paddingLeft="24dp"
+                android:text="Username:"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/display_user"
+                android:layout_width="86dp"
+                android:layout_height="20dp"
+                android:layout_toRightOf="@+id/username_setting"
+                android:background="@color/indigo"
+                android:text="GroupTuring"
+                android:textSize="15dp"
+                android:fontFamily="@font/quenda"
+                android:textColor="@color/colorPrimary"
+
+                />
+
+            <TextView
+                android:id="@+id/email_setting"
+                android:layout_width="100dp"
+                android:layout_height="33dp"
+                android:layout_below="@+id/username_setting"
+                android:ems="10"
+                android:paddingLeft="24dp"
+                android:text="Email:"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/display_email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/email_setting"
+                android:layout_alignBottom="@+id/email_setting"
+                android:layout_alignEnd="@+id/setting_arrival_edit"
+                android:layout_alignRight="@+id/setting_arrival_edit"
+                android:layout_marginEnd="29dp"
+                android:layout_marginRight="29dp"
+                android:background="@color/indigo"
+                android:fontFamily="@font/quenda"
+                android:text="GroupTuring@gmail.com"
+                android:textColor="@color/colorPrimary"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/setting_change_password"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/email_setting"
+                android:ems="10"
+                android:gravity="left"
+                android:paddingLeft="24sp"
+                android:text="Change Password"
+                android:textStyle="bold"
+
+                />
+
+            <TextView
+                android:id="@+id/setting_original_pass"
+                android:layout_width="wrap_content"
+                android:layout_height="33dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="99dp"
+                android:ems="10"
+                android:gravity="center"
+                android:paddingLeft="40sp"
+                android:text="Original Password: "
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/setting_original_pass_edit"
+                android:layout_width="220dp"
+                android:layout_height="30dp"
+                android:layout_above="@+id/setting_new_pass"
+                android:layout_alignEnd="@+id/setting_new_pass_edit"
+                android:layout_alignLeft="@+id/setting_new_pass_edit"
+                android:layout_alignRight="@+id/setting_new_pass_edit"
+                android:layout_alignStart="@+id/setting_new_pass_edit"
+                android:layout_gravity="center"
+                android:background="@drawable/details_input_field"
+                android:fontFamily="@font/quenda_medium"
+                android:hint="Old Password"
+                android:inputType="textPersonName|textPassword"
+                android:paddingLeft="24dp"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/setting_new_pass"
+                android:layout_width="wrap_content"
+                android:layout_height="33dp"
+                android:layout_below="@+id/setting_original_pass"
+                android:ems="10"
+                android:gravity="center"
+                android:paddingLeft="40sp"
+                android:text="New Password: "
+                android:textStyle="bold"
+                android:layout_marginLeft="10dp"/>
+            <EditText
+                android:layout_width="220dp"
+                android:layout_height="30dp"
+                android:layout_above="@+id/setting_save_button_pass"
+                android:layout_gravity="center"
+                android:layout_toEndOf="@+id/display_user"
+                android:layout_toRightOf="@+id/display_user"
+                android:background="@drawable/details_input_field"
+                android:fontFamily="@font/quenda_medium"
+                android:hint="Re-type Password"
+                android:inputType="textPersonName|textPassword"
+                android:layout_marginRight="10dp"
+                android:paddingLeft="24dp"
+                android:textSize="15sp"
+                android:id="@+id/setting_confirm_pass_edit" />
+
+            <TextView
+                android:id="@+id/setting_retype_pass"
+                android:layout_width="170dp"
+                android:layout_height="33dp"
+                android:layout_alignEnd="@+id/setting_new_pass"
+                android:layout_alignRight="@+id/setting_new_pass"
+                android:layout_below="@+id/setting_new_pass"
+                android:layout_marginLeft="10dp"
+                android:ems="10"
+                android:gravity="center"
+                android:paddingLeft="40sp"
+                android:text="Confirm Password: "
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/setting_new_pass_edit"
+                android:layout_width="220dp"
+                android:layout_height="30dp"
+                android:layout_above="@+id/setting_retype_pass"
+                android:layout_alignLeft="@+id/setting_confirm_pass_edit"
+                android:layout_alignStart="@+id/setting_confirm_pass_edit"
+                android:layout_gravity="center"
+                android:background="@drawable/details_input_field"
+                android:fontFamily="@font/quenda_medium"
+                android:hint="New Password"
+                android:inputType="textPersonName|textPassword"
+                android:layout_marginRight="10dp"
+                android:paddingLeft="24dp"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/setting_save_button_pass"
+                android:layout_width="140dp"
+                android:layout_height="30dp"
+                android:layout_alignLeft="@+id/setting_save_button_noti"
+                android:layout_alignStart="@+id/setting_save_button_noti"
+                android:layout_below="@+id/setting_retype_pass"
+                android:background="@drawable/mybutton"
+                android:backgroundTint="@color/pink"
+                android:fontFamily="@font/quenda"
+                android:text="Save Password"
+                android:textColor="@color/white"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/setting_change_notif"
+                android:layout_width="210dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/setting_save_button_pass"
+                android:ems="10"
+                android:paddingLeft="24sp"
+                android:text="Change Notification Settings"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:id="@+id/setting_arrival"
+                android:layout_width="wrap_content"
+                android:layout_height="33dp"
+                android:layout_below="@+id/setting_change_notif"
+                android:ems="10"
+                android:gravity="bottom"
+                android:paddingLeft="48sp"
+                android:text="Arrival Time: "
+                android:textStyle="bold"/>
+
+            <EditText
+                android:id="@+id/setting_arrival_edit"
+                android:layout_width="100dp"
+                android:layout_height="35dp"
+                android:layout_alignBaseline="@+id/setting_arrival"
+                android:layout_alignBottom="@+id/setting_arrival"
+                android:layout_toEndOf="@+id/setting_arrival"
+                android:layout_toRightOf="@+id/setting_arrival"
+                android:background="@drawable/details_input_field"
+                android:fontFamily="@font/quenda"
+                android:text="  10" />
+
+            <Switch
+                android:id="@+id/setting_arrival_switch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/setting_arrival"
+                android:layout_alignBottom="@+id/setting_arrival"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:paddingRight="33dp" />
+
+            <TextView
+                android:id="@+id/setting_alight"
+                android:layout_width="wrap_content"
+                android:layout_height="33dp"
+                android:layout_below="@+id/setting_arrival"
+                android:ems="10"
+                android:gravity="bottom"
+                android:paddingLeft="48sp"
+                android:text="Alight Distance: "
+                android:textStyle="bold"/>
+
+            <EditText
+                android:id="@+id/setting_alight_edit"
+                android:layout_width="100dp"
+                android:layout_height="35dp"
+                android:layout_alignBaseline="@+id/setting_alight"
+                android:layout_alignBottom="@+id/setting_alight"
+                android:layout_toEndOf="@+id/setting_alight"
+                android:layout_toRightOf="@+id/setting_alight"
+                android:background="@drawable/details_input_field"
+                android:fontFamily="@font/quenda"
+                android:text="  300" />
+
+            <Switch
+                android:id="@+id/setting_alight_switch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/setting_alight"
+                android:layout_alignBottom="@+id/setting_alight"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:paddingRight="33dp" />
+
+
+            <Button
+                android:id="@+id/setting_save_button_noti"
+                android:layout_width="150dp"
+                android:layout_height="30dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/setting_alight_edit"
+                android:background="@drawable/mybutton"
+                android:backgroundTint="@color/pink"
+                android:text="Save Notification"
+                android:fontFamily="@font/quenda"
+                android:textColor="@color/white"
+                android:layout_marginRight="10dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text=" "
+                android:layout_below="@+id/setting_save_button_noti"/>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
+
+

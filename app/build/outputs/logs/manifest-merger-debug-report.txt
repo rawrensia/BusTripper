@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:2:1-54:12
+MERGED from [com.google.android.gms:play-services-places:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.0.aar/184d3da3ca28e6457660db36ab810997/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/c6a0decabc9ef818110964cc67d2725d/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/e03a4eef9f017f383f2501774dad3d3f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/92050b6f795c7aed6071aa6285526c09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/e1574c2c1748e866a8bd36cef590ca19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4ac23accacefe354dacba5764429839c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/1e73b2af009540baa4c991052831ef96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3a714a1891dbd4aa3f29a3f83904e0a1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/4e82bd9fe29004580f30279630f7b00b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/c4641bca073dad21629be1abbfa68980/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.0.aar/0f924e3b07fa11d713b36b8b1fa42eb4/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.0.aar/df3c60424d3c84ff60d7ee84b579a28c/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.0.aar/b8e3f8e4947b4149355ef7287572620d/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/5b98f9329bc52508208b1dc35afafdc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/87ddc74420fb85001bb05ac7e6333adb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/b15e07eafda1fba99321863384a6ef39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/e84d6f82c35c6cfb9fc1f886bff4d382/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/4cb3a4059e4a15db452a281907328617/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/a8b81c6458a249dcc9d207ea56304985/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/fea5da55bb1b92c52cc461c21e3acc59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/ad79bb25e1c1e40cd8f32a2a3ec7e038/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/fed3c5602e59a706f3873bf738ea4262/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/6de35a7a29ea6ca9fa8931dda01b1ae0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/91f5d176f68cc111c6e56561ebce9621/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/003f05917310b000a65b89334521a8f3/AndroidManifest.xml:2:1-8:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/527d041176832c3e734cf4df88de19ae/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2937449858c51abfccd054c5677957fc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9580c1dfaf76ffb1a7890e7429973895/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6a4c1877090b1cc0d9aeac99d252e422/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-places:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.0.aar/184d3da3ca28e6457660db36ab810997/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.0.aar/184d3da3ca28e6457660db36ab810997/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/c6a0decabc9ef818110964cc67d2725d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/c6a0decabc9ef818110964cc67d2725d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/e03a4eef9f017f383f2501774dad3d3f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/e03a4eef9f017f383f2501774dad3d3f/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/92050b6f795c7aed6071aa6285526c09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/92050b6f795c7aed6071aa6285526c09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/e1574c2c1748e866a8bd36cef590ca19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/e1574c2c1748e866a8bd36cef590ca19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4ac23accacefe354dacba5764429839c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4ac23accacefe354dacba5764429839c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/1e73b2af009540baa4c991052831ef96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/1e73b2af009540baa4c991052831ef96/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3a714a1891dbd4aa3f29a3f83904e0a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3a714a1891dbd4aa3f29a3f83904e0a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/4e82bd9fe29004580f30279630f7b00b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/4e82bd9fe29004580f30279630f7b00b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/c4641bca073dad21629be1abbfa68980/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/c4641bca073dad21629be1abbfa68980/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/5b98f9329bc52508208b1dc35afafdc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/5b98f9329bc52508208b1dc35afafdc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/87ddc74420fb85001bb05ac7e6333adb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/87ddc74420fb85001bb05ac7e6333adb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/b15e07eafda1fba99321863384a6ef39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/b15e07eafda1fba99321863384a6ef39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/e84d6f82c35c6cfb9fc1f886bff4d382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/e84d6f82c35c6cfb9fc1f886bff4d382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/4cb3a4059e4a15db452a281907328617/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/4cb3a4059e4a15db452a281907328617/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/a8b81c6458a249dcc9d207ea56304985/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/a8b81c6458a249dcc9d207ea56304985/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/fea5da55bb1b92c52cc461c21e3acc59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/fea5da55bb1b92c52cc461c21e3acc59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/ad79bb25e1c1e40cd8f32a2a3ec7e038/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/ad79bb25e1c1e40cd8f32a2a3ec7e038/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/fed3c5602e59a706f3873bf738ea4262/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/fed3c5602e59a706f3873bf738ea4262/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/527d041176832c3e734cf4df88de19ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/527d041176832c3e734cf4df88de19ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2937449858c51abfccd054c5677957fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2937449858c51abfccd054c5677957fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9580c1dfaf76ffb1a7890e7429973895/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9580c1dfaf76ffb1a7890e7429973895/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6a4c1877090b1cc0d9aeac99d252e422/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6a4c1877090b1cc0d9aeac99d252e422/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:7:9-38
+		INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:6:9-34
+		INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:12:5-66
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/c6a0decabc9ef818110964cc67d2725d/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/c6a0decabc9ef818110964cc67d2725d/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:12:22-64
+application
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:16:5-47:19
+MERGED from [com.google.android.gms:play-services-places:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.0.aar/184d3da3ca28e6457660db36ab810997/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.0.aar/184d3da3ca28e6457660db36ab810997/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/c6a0decabc9ef818110964cc67d2725d/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/c6a0decabc9ef818110964cc67d2725d/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/e03a4eef9f017f383f2501774dad3d3f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/e03a4eef9f017f383f2501774dad3d3f/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4ac23accacefe354dacba5764429839c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4ac23accacefe354dacba5764429839c/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3a714a1891dbd4aa3f29a3f83904e0a1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3a714a1891dbd4aa3f29a3f83904e0a1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/4e82bd9fe29004580f30279630f7b00b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/4e82bd9fe29004580f30279630f7b00b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/c4641bca073dad21629be1abbfa68980/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/c4641bca073dad21629be1abbfa68980/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-places-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.0.aar/0f924e3b07fa11d713b36b8b1fa42eb4/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-places-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.0.aar/0f924e3b07fa11d713b36b8b1fa42eb4/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.0.aar/df3c60424d3c84ff60d7ee84b579a28c/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.0.aar/df3c60424d3c84ff60d7ee84b579a28c/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-location-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.0.aar/b8e3f8e4947b4149355ef7287572620d/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-location-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.0.aar/b8e3f8e4947b4149355ef7287572620d/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/6de35a7a29ea6ca9fa8931dda01b1ae0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/6de35a7a29ea6ca9fa8931dda01b1ae0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/91f5d176f68cc111c6e56561ebce9621/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/91f5d176f68cc111c6e56561ebce9621/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/003f05917310b000a65b89334521a8f3/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/003f05917310b000a65b89334521a8f3/AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:20:9-47
+	android:icon
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:22:9-40
+activity#com.bustripper.bustripper.ControlClass.AccessActivity
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:23:9-28:20
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:24:13-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:24:57-27:25
+action#android.intent.action.MAIN
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.bustripper.bustripper.ControlClass.MainActivity
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:29:9-63
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:29:19-60
+activity#com.bustripper.bustripper.ControlClass.SignUpActivity
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:30:9-65
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:30:19-62
+activity#com.bustripper.bustripper.ControlClass.ForgetPasswordActivity
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:31:9-73
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:31:19-70
+activity#com.bustripper.bustripper.ControlClass.LoginActivity
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:32:9-63
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:32:19-61
+activity#com.bustripper.bustripper.ControlClass.BusStopActivity
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:33:9-65
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:33:19-63
+meta-data#preloaded_fonts
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:35:9-37:57
+	android:resource
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:37:13-54
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:36:13-43
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:39:9-42:21
+	android:value
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:41:13-68
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:40:13-58
+meta-data#com.google.android.gms.version
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:43:9-46:21
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/c4641bca073dad21629be1abbfa68980/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/c4641bca073dad21629be1abbfa68980/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:45:13-66
+	android:name
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:44:13-58
+uses-feature#0x00020000
+ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:49:5-51:34
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/c6a0decabc9ef818110964cc67d2725d/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/c6a0decabc9ef818110964cc67d2725d/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:50:9-41
+	android:required
+		ADDED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:51:9-32
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/c6a0decabc9ef818110964cc67d2725d/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/c6a0decabc9ef818110964cc67d2725d/AndroidManifest.xml:23:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3a714a1891dbd4aa3f29a3f83904e0a1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3a714a1891dbd4aa3f29a3f83904e0a1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3a714a1891dbd4aa3f29a3f83904e0a1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/rawrensia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/3a714a1891dbd4aa3f29a3f83904e0a1/AndroidManifest.xml:24:13-79
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:2:1-54:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/rawrensia/Documents/NTU/NTU Y2S2/CZ2006/BusTrippernew/app/src/main/AndroidManifest.xml:2:1-54:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE
