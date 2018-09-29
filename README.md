@@ -7,3 +7,10 @@ Find the best trip route (not fully developed)
 Search for bus stop
 Search for bus service
 Find out about the weather on destination
+
+# Acknowledgements
+- Chen Zhi Wei
+- Kennard Chan Yanting
+- Leong Mei Han
+- Ang Shu Liang
+
